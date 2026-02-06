@@ -1,11 +1,11 @@
 
 import React from 'react';
-import { Header } from './components/Header';
-import { Hero } from './components/Hero';
-import { ServiceSection } from './components/ServiceSection';
-import { HowIWork } from './components/HowIWork';
-import { Footer } from './components/Footer';
-import { BlobBackground } from './components/BlobBackground';
+import { Header } from './components/Header.tsx';
+import { Hero } from './components/Hero.tsx';
+import { ServiceSection } from './components/ServiceSection.tsx';
+import { HowIWork } from './components/HowIWork.tsx';
+import { Footer } from './components/Footer.tsx';
+import { BlobBackground } from './components/BlobBackground.tsx';
 
 const App: React.FC = () => {
   return (
